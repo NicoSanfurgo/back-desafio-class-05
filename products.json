@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Gorra",
+    "description": "Buena calidad",
+    "price": 400,
+    "thumbnail": "https://i0.wp.com/miscellaneousbycaff.com.ar/wp-content/uploads/2021/05/gorra-negra-NY.jpg?fit=901%2C768&ssl=1",
+    "code": 4004,
+    "stock": 230
+  },
+  {
+    "id": 2,
+    "title": "Remera",
+    "description": "Demasiada calidad",
+    "price": 350,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_837591-MLA50891162952_072022-O.webp",
+    "code": 4005,
+    "stock": 220
+  },
+  {
+    "id": 3,
+    "title": "Camisa",
+    "description": "Excelente calidad",
+    "price": 550,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_837591-MLA50891162952_072022-O.webp",
+    "code": 4006,
+    "stock": 250
+  },
+  {
+    "id": 4,
+    "title": "Jeans",
+    "description": "Comodos",
+    "price": 450,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_837591-MLA50891162952_072022-O.webp",
+    "code": 4007,
+    "stock": 210
+  }
+]
